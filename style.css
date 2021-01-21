@@ -1,22 +1,22 @@
 header {
     background-color: gray;
-    padding: 50px;
-    margin: 50px;
-    height: 3em;
+    padding: auto;
+    margin: auto;
+    height: auto;
 }
 
 main {
     background-color: lightblue;
-    padding: 50px;
-    margin: 50px;
-    height: 3em;
+    padding: auto;
+    margin: auto;
+    height: auto;
 }
 
 footer {
     background-color: gray;
-    padding: 45px;
-    margin:45 px;
-    height: 3em;
+    padding: auto;
+    margin: auto;
+    height: auto;
 }
 
 h1 {
