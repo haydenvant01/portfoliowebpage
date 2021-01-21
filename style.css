@@ -45,7 +45,7 @@ p {
 
 li {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16 px;
+    font-size: 17 px;
     text-align: left;
 }
 
@@ -53,3 +53,8 @@ img {
     align-items: center;
 }
 
+.center {
+display: block;
+margin: auto;
+width: 50%;
+}
