@@ -1,0 +1,51 @@
+header {
+    background-color: gray;
+    padding: 35px;
+    margin: 35px;
+    height: 3em;
+}
+
+main {
+    background-color: lightblue;
+    padding: 35px;
+    margin: 35px;
+    height: 3em;
+}
+
+footer {
+    background-color: gray;
+    padding: 35px;
+    margin:35 px;
+    height: 3em;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    text-align: center;
+
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align:center;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-small;
+    text-align: center;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    text-align: left;
+}
+
