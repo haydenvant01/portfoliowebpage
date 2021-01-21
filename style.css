@@ -1,8 +1,8 @@
 header {
     background-color: gray;
-    padding: 60px;
-    margin: 60px;
-    height: 60px;
+    padding: 100px;
+    margin: 100px;
+    height: 100px;
 }
 
 main {
@@ -14,9 +14,9 @@ main {
 
 footer {
     background-color: gray;
-    padding: 30px;
-    margin: 30px;
-    height: 30px;
+    padding: 60px;
+    margin: 60px;
+    height: 60px;
 }
 
 h1 {
