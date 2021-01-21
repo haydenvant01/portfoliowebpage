@@ -55,3 +55,8 @@ img {
     margin-right: auto;
     width: 40%;
 }
+
+a:link {color:blue}
+a:visited {color:red}
+a:hover {color: purple}
+a:active {color:green}
