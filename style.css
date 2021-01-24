@@ -1,62 +1,62 @@
-header {  
+header {    /*my header has a gray background, and the padding, margin and height are set to auto to match the webpage size */
     background-color: gray;  
     padding: auto;
     margin: auto;
     height: auto;
 }
 
-main {
+main {    /*my main container has a light blue background, and the padding, margin and height are once again set to auto */
     background-color: lightblue;
     padding: auto;
     margin: auto;
     height: auto;
 }
 
-footer {
+footer {   /* my footer has a gray background, and the padding, margin and height are once again set to auto */
     background-color: gray;
     padding: auto;
     margin: auto;
     height: auto;
 }
 
-h1 {
+h1 {  /*all of my h1 elements use a times new roman serif font, sized 35px, and the text is center aligned on the page */
     font-family:'Times New Roman', Times, serif;
     font-size: 35 px;
     text-align: center;
 
 }
-h2 {
+h2 {   /*all of my h2 elements use a times new roman serif font, sized 25 px, and the text is center aligned on the page */
     font-family:'Times New Roman', Times, serif;
     font-size: 25 px;
     text-align: center;
 }
 
-h3 {
+h3 {  /*all of my h3 elements use a times new roman serif font, sized 18 px, and the text is center aligned on the page */
     font-family: 'Times New Roman', Times, serif;
     font-size: 18 px;
     text-align:center;
 }
 
-p {
+p {  /* my paragraph elements use a times new roman serif font, sized 17 px, and the text is center aligned on the page */
     font-family:'Times New Roman', Times, serif;
     font-size:17 px;
     text-align: center;
 }
 
-li {
+li {  /* my list item elements use a times new roman serif font, sized 17 px, and the text is left aligned to form a list on the page */
     font-family: 'Times New Roman', Times, serif;
     font-size: 17 px;
     text-align: left;
 }
 
-img {
+img {  /*my img element is set to block display, with the left and right margins set to auto, and the width set to 40% */
     display:block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
 }
 
-a:link {color:blue;}
+a:link {color:blue;}  /* here i used pseudocodes to change the link color from blue to red, purple and green depending on their state of activity */
 a:visited {color:red;}
 a:hover {color: purple;}
 a:active {color:green;}
